@@ -112,7 +112,7 @@
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=898080&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/e066f1ae9523c00d2628820f1360dde9d633ac9d...e066f1ae9523c00d2628820f1360dde9d633ac9d",
   "build": "898080",
-  "date": "2025-07-11T08:00:30.9249864Z"
+  "date": ""
  },
 "sonic-vs.img.gz": {
   "url": "null",
