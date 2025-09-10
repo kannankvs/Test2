@@ -157,18 +157,18 @@
   "date": ""
  },
 "sonic-generic.bin": {
-  "url": "null",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=898853&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/null...e066f1ae9523c00d2628820f1360dde9d633ac9d",
-  "build": "898853",
-  "date": "2025-07-12T08:00:17.3444196Z"
+  "url": "",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/null...null",
+  "build": "null",
+  "date": ""
  },
 "sonic-generic-dbg.bin": {
-  "url": "null",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=898853&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/null...e066f1ae9523c00d2628820f1360dde9d633ac9d",
-  "build": "898853",
-  "date": "2025-07-12T08:00:17.3444196Z"
+  "url": "",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/null...null",
+  "build": "null",
+  "date": ""
  },
 "sonic-marvell-armhf.bin": {
   "url": "",
