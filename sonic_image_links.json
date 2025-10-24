@@ -461,7 +461,7 @@
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=862352&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/1e8c79a37c1c60200c058c09dd31271dbef1ad23...1e8c79a37c1c60200c058c09dd31271dbef1ad23",
   "build": "862352",
-  "date": "2025-05-28T08:00:23.4027755Z"
+  "date": ""
  }
 }
 }
