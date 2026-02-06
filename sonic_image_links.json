@@ -338,7 +338,7 @@
 "sonic-centec-arm64.bin": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/null...null",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/null...",
   "build": "null",
   "date": ""
  },
@@ -391,7 +391,7 @@
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=38552&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/null...f6f4c7f4b985e831b43bad703fc94dd5b8c9cf4e",
   "build": "38552",
-  "date": "2021-09-21T08:00:01.8005251Z"
+  "date": ""
  },
 "sonic-vs.img.gz": {
   "url": "",
@@ -403,14 +403,14 @@
 "sonic-innovium.bin": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/null...null",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/null...",
   "build": "null",
   "date": ""
  },
 "sonic-innovium-dbg.bin": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/null...null",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/null...",
   "build": "null",
   "date": ""
  },
