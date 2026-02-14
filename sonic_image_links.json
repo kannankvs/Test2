@@ -119,7 +119,7 @@
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=142109&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/null...0adfd724e6cb9889ff74a3ee3aade76b6d4c9842",
   "build": "142109",
-  "date": ""
+  "date": "2022-08-31T08:00:37.2451127Z"
  },
 "sonic-innovium.bin": {
   "url": "",
@@ -395,10 +395,10 @@
  },
 "sonic-vs.img.gz": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/null...null",
-  "build": "",
-  "date": "null"
+  "build": "null",
+  "date": ""
  },
 "sonic-innovium.bin": {
   "url": "",
